@@ -1,4 +1,5 @@
 #write program using user input for prime number
+import os
 num = int(input("Enter a number"))
 
 if num > 1:
